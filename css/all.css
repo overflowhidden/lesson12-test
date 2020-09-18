@@ -138,6 +138,7 @@ article figure {
     overflow: hidden;
     border-radius: 5px;
     margin-bottom: 33px;
+    padding-top: 60px;
 }
 
 
@@ -149,18 +150,15 @@ article figure {
 
 figure {
     max-height: 370px;
-    overflow: hidden;
 }
 
 figure img {
     max-width: 100%;
-    height: auto;
 }
 
 article h3 {
     font: 500 28px/37px 'Rubik', sans-serif;
     padding-top: 58px;
-    padding-bottom: 29px;
 }
 
 aside {
@@ -176,7 +174,7 @@ aside form {
 .search-form {
     color: #bdc6ca;
     font: 300 16px 'Roboto', sans-serif;
-    padding-top: 8px;
+    padding-top: 128px;
     padding-bottom: 42px;
 }
 
